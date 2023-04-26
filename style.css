@@ -1,0 +1,74 @@
+.cabeçalho {
+    background-color: rgb(31, 9, 155);
+    margin: 0%;
+    padding: 5px 5px
+}
+
+.cabeçalho{
+    color: rgb(255, 252, 47);
+    text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.cabeçalho-título2 {
+    color: rgba(253, 139, 46, 0.877);
+    font-size: 15px;
+}
+.cabeçalho-título3 {
+    color: rgba(253, 139, 46, 0.877);
+    font-size: 15px;
+}
+p {
+    color: rgb(38, 248, 18);   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+    .cabeçalho-imagem {
+        width: 150px;
+        margin: 0;
+        padding: 5px 5px;
+    }
+    li {
+        color: aliceblue;
+    }
+    Home {
+        color: aliceblue;
+        text-align: right;
+    
+    }
+    Quem-Somos {
+        color: aliceblue;
+        text-align: right;
+    }
+   Contato {
+    color: aliceblue;
+    text-align: right;
+   }
+.Notícias {
+    background-color: rgb(255, 252, 47);
+    text-align: center;
+    
+}
+.Jogadores {
+    width: 500px;
+    margin:0 ;
+    padding: 120px 120px;
+     text-align: center;  
+}
+
+p2 {
+    color: rgb(12, 12, 12);
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+p3 {
+    color: rgb(12, 12, 12);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+p4 {
+    color: rgb(12, 12, 12) ;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
